@@ -1,5 +1,5 @@
 # Flutter_Chat_App
-Huni Chat App.
+Huni Chat App
 
 ## Getting Started
 This project is a starting point for a Flutter application.
